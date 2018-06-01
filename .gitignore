@@ -42,3 +42,8 @@ bower.json
 
 # Ignore Byebug command history file.
 .byebug_history
+
+pot_luck_party/log/
+pot_luck_party/storage
+pot_luck_party/tmp
+
